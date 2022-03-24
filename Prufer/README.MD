@@ -1,0 +1,1 @@
+You can use the .out values from the coding algorithm in the decoding one and vice-versa!
