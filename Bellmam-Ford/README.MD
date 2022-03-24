@@ -1,4 +1,4 @@
 graf.txt:
-The first line contains two numbers, separated by a space M, N, the number of nodes and the number of vertexes for the graph.
-The following M lines describe the vertexes with pairs of nodes x, y, separated by a space.
+The first line contains threee numbers, separated by a space M, N and W the number of nodes, the number of vertexes for the graph and the weight of each vertex.
+The following M lines describe the vertexes with three nodes x, y and z separated by a space.
 The nodes are indexed from 0.
